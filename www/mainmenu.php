@@ -18,7 +18,7 @@
     <div align="center">
       <img src="pic/student2.png" width="120" height="120"> </div>
        <font size="4"> <ul data-inset="true" data-role="listview" data-theme="e">
-		  <li><a href="http://112.121.150.67/todsob/popuplogin.php" data-rel="dialog" data-transition="pop">เข้าสู่ระบบ</a></li>
+		  <li><a href="http://112.121.150.67/todsob/www/popuplogin.php" data-rel="dialog" data-transition="pop">เข้าสู่ระบบ</a></li>
             <li><a href="http://www.osstec.co.th">เยี่ยมชมเว็บไซต์</a></li>
 			<li><a href="#">ติดต่อเรา</a></li>
 		</ul></font>	
@@ -29,7 +29,7 @@
 	<div data-role="footer" data-theme="e" data-position="fixed">
 		<div data-role="navbar">
           <ul>
-            <li><a href="http://112.121.150.67/todsob/mainmenu.php"><font size="4">หน้าหลัก</font></a></li>
+            <li><a href="http://112.121.150.67/todsob/www/mainmenu.php"><font size="4">หน้าหลัก</font></a></li>
             <li><a href="#"><font size="4">ความคิดเห็น</font></a></li>
           </ul>
         </div>
