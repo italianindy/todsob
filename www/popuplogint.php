@@ -17,7 +17,7 @@
 	<div data-role="content">
     <div align="center">
       <img src="pic/key.png" width="60" height="60"> </div>	
-		<form action="logint.php" method="post">
+		<form action="http://112.121.150.67/thaistudentcare/logint.php" method="post">
 Username : <input type="text" name="txtUsername">
 Password :<input type="password" name="txtPassword">
 <br />
